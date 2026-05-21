@@ -5,8 +5,6 @@
 Interactive WebAR experience powered by **Three.js** and **MediaPipe**.  
 Bringing the Limitless into reality with hand-tracking cursed techniques.
 
-![Demo](video/demo.gif)   
-
 </div>
 
 ## ✨ Features & Techniques
