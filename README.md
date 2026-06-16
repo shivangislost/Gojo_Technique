@@ -49,9 +49,6 @@ You can customize effects in `config.js`:
 
 <div align="center">
 
-## 🌟 Support
-
-If you enjoyed this project, please consider **⭐ Giving it a Star on GitHub!**
 
 > *"Nah, I'd win."* — Gojo Satoru
 
