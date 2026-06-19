@@ -49,7 +49,6 @@ You can customize effects in `config.js`:
 
 <div align="center">
 
-
 > *"Nah, I'd win."* — Gojo Satoru
 
 </div>
